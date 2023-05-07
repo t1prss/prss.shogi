@@ -1,5 +1,6 @@
 <!doctype html>
-<html><head>
+<html>
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0TFZBWY1PK"></script>
 <script>
